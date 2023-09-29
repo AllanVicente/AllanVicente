@@ -2,11 +2,14 @@
   
 - 🔭 Estou em busca de um estágio como programador.
 - 🌱 Estou estudando Análise e Desenvolvimento de Sistemas
-- 📩 Contate-me pelo e-mail: miranda.allan@hotmail.com
 - 😄 Pronouns: Ele/Dele</p>
 
+<div align="center"> 
+  <a href = "mailto:miranda.allan@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/miranda-allan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
   ##
-  
 <div align="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanVicente&layout=compact&theme=tokyonight"/>
 </div>
@@ -23,10 +26,6 @@
   <img align="center" alt="Allan-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 </div>
 
-<br>
 
-<div align="center"> 
-  <a href = "mailto:miranda.allan@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/miranda-allan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
 
