@@ -1,7 +1,7 @@
   ### Olá! Eu sou o Allan Miranda 👋
   
 - 🔭 Estou em busca de um estágio como programador.
-- 🌱 Estou estudando Análise e Desenvolvimento de Sistemas
+- 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas 
 - 😄 Pronouns: Ele/Dele</p>
 
 <div align="center"> 
